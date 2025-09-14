@@ -16,7 +16,7 @@ Uma calculadora simples e estilizada desenvolvida em **HTML**, **CSS** e **JavaS
 ---
 
 ## 🖼️ Prévia
-![preview](https://img.shields.io/badge/Calculadora-ARTUR-00ffcc?style=for-the-badge&logo=javascript)
+file:///C:/Users/ARTUR/Desktop/ARTUR/calculadora-artur/index.html
 
 ---
 
